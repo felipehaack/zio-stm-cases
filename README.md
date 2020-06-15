@@ -1,2 +1,4 @@
-# zio-stm-cases
-ZIO STM concurrency cases
+# ZIO STM - Concurrency cases
+
+Philosopher Case [X]
+Elevator Case []
